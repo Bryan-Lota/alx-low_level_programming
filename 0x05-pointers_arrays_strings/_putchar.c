@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #include <unistd.h>
 
 /**
@@ -8,13 +8,4 @@
  */
 int _putchar(char c)
 {
-    return write(1, &c, 1);
-}
-
-=======
-/* _putchar - writes a character to stdout */
-int _putchar(char c)
-{
-return write(1, &c, 1);
-}
->>>>>>> 66be7a9be1e8789d03944c9b58acb0d3cb0273f1
+    return write(1, &
